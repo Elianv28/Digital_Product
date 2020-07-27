@@ -177,6 +177,7 @@ nav li a:hover{
   justify-content: space-between;
   font-weight: none;
   align-items: center;
+  buttom:0;
 }
 
 .contact a{
